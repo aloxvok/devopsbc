@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592546386099</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Logical operators">
+      <created>1592546741504</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592546741504</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,11 +241,11 @@
     </state>
     <state x="458" y="178" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1592544435375" />
     <state x="1114" y="1248" key="SettingsEditor/0.23.1440.877/-1219.923.3440.1337@-1219.923.3440.1337" timestamp="1591848414685" />
-    <state x="320" y="180" key="Vcs.Push.Dialog.v2" timestamp="1592546398675">
+    <state x="320" y="180" key="Vcs.Push.Dialog.v2" timestamp="1592547197556">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1592527050373" />
-    <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1592546398675" />
+    <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1592547197556" />
     <state x="347" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592544559583">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
